@@ -17,7 +17,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 4. Display the sample metadata, i.e., an individual's demographic information.
 5. Display each key-value pair from the metadata JSON object somewhere on the page.
 6. Update all of the plots any time that a new sample is selected.
-Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown below:
+Additionally, you are welcome to create any layout that you would like for your dashboard.
 
 ## Deployment
 Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo.
